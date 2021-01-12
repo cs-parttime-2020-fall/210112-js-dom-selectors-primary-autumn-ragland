@@ -1,0 +1,22 @@
+body {
+    background-color: #DCE1DE;
+    margin : 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card-header {
+    background-color: #9CC5A1;
+    color : white;
+}
+
+.card {
+    margin : 1%;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
